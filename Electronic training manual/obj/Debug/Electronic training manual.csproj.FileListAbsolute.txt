@@ -1,0 +1,78 @@
+C:\Users\artur\source\repos\Electronic training manual\Electronic training manual\bin\Debug\Electronic training manual.exe.config
+C:\Users\artur\source\repos\Electronic training manual\Electronic training manual\bin\Debug\Electronic training manual.exe
+C:\Users\artur\source\repos\Electronic training manual\Electronic training manual\bin\Debug\Electronic training manual.pdb
+C:\Users\artur\source\repos\Electronic training manual\Electronic training manual\obj\Debug\Electronic training manual.csproj.AssemblyReference.cache
+C:\Users\artur\source\repos\Electronic training manual\Electronic training manual\obj\Debug\Electronic_training_manual.Form1.resources
+C:\Users\artur\source\repos\Electronic training manual\Electronic training manual\obj\Debug\Electronic_training_manual.Properties.Resources.resources
+C:\Users\artur\source\repos\Electronic training manual\Electronic training manual\obj\Debug\Electronic training manual.csproj.GenerateResource.cache
+C:\Users\artur\source\repos\Electronic training manual\Electronic training manual\obj\Debug\Electronic training manual.csproj.CoreCompileInputs.cache
+C:\Users\artur\source\repos\Electronic training manual\Electronic training manual\obj\Debug\Electronic training manual.exe
+C:\Users\artur\source\repos\Electronic training manual\Electronic training manual\obj\Debug\Electronic training manual.pdb
+C:\Users\artur\source\repos\Electronic training manual\Electronic training manual\obj\Debug\Electronic_training_manual.Theory.resources
+C:\Users\artur\source\repos\Electronic training manual\Electronic training manual\obj\Debug\Electronic_training_manual.Practice.resources
+C:\Users\artur\source\repos\Electronic training manual\Electronic training manual\obj\Debug\Electronic_training_manual.Test.resources
+D:\КП\Electronic training manual\Electronic training manual\bin\Debug\Electronic training manual.exe.config
+D:\КП\Electronic training manual\Electronic training manual\bin\Debug\Electronic training manual.exe
+D:\КП\Electronic training manual\Electronic training manual\bin\Debug\Electronic training manual.pdb
+D:\КП\Electronic training manual\Electronic training manual\obj\Debug\Electronic training manual.csproj.AssemblyReference.cache
+D:\КП\Electronic training manual\Electronic training manual\obj\Debug\Electronic_training_manual.Form1.resources
+D:\КП\Electronic training manual\Electronic training manual\obj\Debug\Electronic_training_manual.Test.resources
+D:\КП\Electronic training manual\Electronic training manual\obj\Debug\Electronic_training_manual.Practice.resources
+D:\КП\Electronic training manual\Electronic training manual\obj\Debug\Electronic_training_manual.Theory.resources
+D:\КП\Electronic training manual\Electronic training manual\obj\Debug\Electronic_training_manual.Properties.Resources.resources
+D:\КП\Electronic training manual\Electronic training manual\obj\Debug\Electronic training manual.csproj.GenerateResource.cache
+D:\КП\Electronic training manual\Electronic training manual\obj\Debug\Electronic training manual.csproj.CoreCompileInputs.cache
+D:\КП\Electronic training manual\Electronic training manual\obj\Debug\Electronic training manual.exe
+D:\КП\Electronic training manual\Electronic training manual\obj\Debug\Electronic training manual.pdb
+D:\КП\Electronic training manual\Electronic training manual\obj\Debug\Electronic_training_manual.Information.resources
+C:\Users\artur\OneDrive\Рабочий стол\Electronic training manual\Electronic training manual\obj\Debug\Electronic training manual.csproj.AssemblyReference.cache
+C:\Users\artur\OneDrive\Рабочий стол\Electronic training manual\Electronic training manual\obj\Debug\Electronic_training_manual.TestirForm.resources
+C:\Users\artur\OneDrive\Рабочий стол\Electronic training manual\Electronic training manual\obj\Debug\Electronic_training_manual.Final.resources
+C:\Users\artur\OneDrive\Рабочий стол\Electronic training manual\Electronic training manual\obj\Debug\Electronic_training_manual.Information.resources
+C:\Users\artur\OneDrive\Рабочий стол\Electronic training manual\Electronic training manual\obj\Debug\Electronic_training_manual.Theory.resources
+C:\Users\artur\OneDrive\Рабочий стол\Electronic training manual\Electronic training manual\obj\Debug\Electronic_training_manual.Properties.Resources.resources
+C:\Users\artur\OneDrive\Рабочий стол\Electronic training manual\Electronic training manual\obj\Debug\Electronic training manual.csproj.GenerateResource.cache
+C:\Users\artur\OneDrive\Рабочий стол\Electronic training manual\Electronic training manual\obj\Debug\Electronic training manual.csproj.CoreCompileInputs.cache
+C:\Users\artur\OneDrive\Рабочий стол\Electronic training manual\Electronic training manual\obj\Debug\Electronic training manual.exe
+C:\Users\artur\OneDrive\Рабочий стол\Electronic training manual\Electronic training manual\obj\Debug\Electronic training manual.pdb
+C:\Users\artur\OneDrive\Рабочий стол\Electronic training manual\Electronic training manual\bin\Debug\Electronic training manual.exe.config
+C:\Users\artur\OneDrive\Рабочий стол\Electronic training manual\Electronic training manual\bin\Debug\Electronic training manual.exe
+C:\Users\artur\OneDrive\Рабочий стол\Electronic training manual\Electronic training manual\bin\Debug\Electronic training manual.pdb
+C:\Users\artur\OneDrive\Рабочий стол\Electronic training manual\Electronic training manual\obj\Debug\Electronic training manual.csproj.CopyComplete
+C:\Users\artur\OneDrive\Рабочий стол\Electronic training manual\Electronic training manual\obj\Debug\Electronic_training_manual.Menu.resources
+C:\Users\artur\OneDrive\Рабочий стол\Electronic training manual\Electronic training manual\obj\Debug\Electronic_training_manual.TestMenu.resources
+E:\КП\Electronic training manual\Electronic training manual\bin\Debug\Electronic training manual.exe.config
+E:\КП\Electronic training manual\Electronic training manual\bin\Debug\Electronic training manual.exe
+E:\КП\Electronic training manual\Electronic training manual\bin\Debug\Electronic training manual.pdb
+E:\КП\Electronic training manual\Electronic training manual\obj\Debug\Electronic training manual.csproj.AssemblyReference.cache
+E:\КП\Electronic training manual\Electronic training manual\obj\Debug\Electronic training manual.csproj.SuggestedBindingRedirects.cache
+E:\КП\Electronic training manual\Electronic training manual\obj\Debug\Electronic_training_manual.Menu.resources
+E:\КП\Electronic training manual\Electronic training manual\obj\Debug\Electronic_training_manual.TestMenu.resources
+E:\КП\Electronic training manual\Electronic training manual\obj\Debug\Electronic_training_manual.TestirForm.resources
+E:\КП\Electronic training manual\Electronic training manual\obj\Debug\Electronic_training_manual.Final.resources
+E:\КП\Electronic training manual\Electronic training manual\obj\Debug\Electronic_training_manual.Information.resources
+E:\КП\Electronic training manual\Electronic training manual\obj\Debug\Electronic_training_manual.Practice.resources
+E:\КП\Electronic training manual\Electronic training manual\obj\Debug\Electronic_training_manual.Theory.resources
+E:\КП\Electronic training manual\Electronic training manual\obj\Debug\Electronic_training_manual.Properties.Resources.resources
+E:\КП\Electronic training manual\Electronic training manual\obj\Debug\Electronic training manual.csproj.GenerateResource.cache
+E:\КП\Electronic training manual\Electronic training manual\obj\Debug\Electronic training manual.csproj.CoreCompileInputs.cache
+E:\КП\Electronic training manual\Electronic training manual\obj\Debug\Electronic training manual.csproj.CopyComplete
+E:\КП\Electronic training manual\Electronic training manual\obj\Debug\Electronic training manual.exe
+E:\КП\Electronic training manual\Electronic training manual\obj\Debug\Electronic training manual.pdb
+C:\Users\artur\OneDrive\Рабочий стол\083_Чайка А. А._ТРПО_КП\Electronic training manual\obj\Debug\Electronic training manual.csproj.AssemblyReference.cache
+C:\Users\artur\OneDrive\Рабочий стол\083_Чайка А. А._ТРПО_КП\Electronic training manual\obj\Debug\Electronic training manual.exe
+C:\Users\artur\OneDrive\Рабочий стол\083_Чайка А. А._ТРПО_КП\Electronic training manual\obj\Debug\Electronic training manual.pdb
+C:\Users\artur\OneDrive\Рабочий стол\083_Чайка А. А._ТРПО_КП\Electronic training manual\bin\Debug\Electronic training manual.exe.config
+C:\Users\artur\OneDrive\Рабочий стол\083_Чайка А. А._ТРПО_КП\Electronic training manual\bin\Debug\Electronic training manual.exe
+C:\Users\artur\OneDrive\Рабочий стол\083_Чайка А. А._ТРПО_КП\Electronic training manual\bin\Debug\Electronic training manual.pdb
+C:\Users\artur\OneDrive\Рабочий стол\083_Чайка А. А._ТРПО_КП\Electronic training manual\obj\Debug\Electronic_training_manual.Menu.resources
+C:\Users\artur\OneDrive\Рабочий стол\083_Чайка А. А._ТРПО_КП\Electronic training manual\obj\Debug\Electronic_training_manual.TestMenu.resources
+C:\Users\artur\OneDrive\Рабочий стол\083_Чайка А. А._ТРПО_КП\Electronic training manual\obj\Debug\Electronic_training_manual.TestirForm.resources
+C:\Users\artur\OneDrive\Рабочий стол\083_Чайка А. А._ТРПО_КП\Electronic training manual\obj\Debug\Electronic_training_manual.Final.resources
+C:\Users\artur\OneDrive\Рабочий стол\083_Чайка А. А._ТРПО_КП\Electronic training manual\obj\Debug\Electronic_training_manual.Information.resources
+C:\Users\artur\OneDrive\Рабочий стол\083_Чайка А. А._ТРПО_КП\Electronic training manual\obj\Debug\Electronic_training_manual.Theory.resources
+C:\Users\artur\OneDrive\Рабочий стол\083_Чайка А. А._ТРПО_КП\Electronic training manual\obj\Debug\Electronic_training_manual.Properties.Resources.resources
+C:\Users\artur\OneDrive\Рабочий стол\083_Чайка А. А._ТРПО_КП\Electronic training manual\obj\Debug\Electronic training manual.csproj.GenerateResource.cache
+C:\Users\artur\OneDrive\Рабочий стол\083_Чайка А. А._ТРПО_КП\Electronic training manual\obj\Debug\Electronic training manual.csproj.CoreCompileInputs.cache
+C:\Users\artur\OneDrive\Рабочий стол\083_Чайка А. А._ТРПО_КП\Electronic training manual\obj\Debug\Electronic training manual.csproj.CopyComplete
+C:\Users\artur\OneDrive\Рабочий стол\083_Чайка А. А._ТРПО_КП\Electronic training manual\obj\Debug\Electronic_training_manual.checkTestForm.resources
